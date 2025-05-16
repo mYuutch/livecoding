@@ -1,7 +1,7 @@
 // @title "lavender forest type beat"
 //  @by myuutch
 // @version 1.0
-// https://strudel.cc/?gxtHWn508zmo
+//play it here : https://strudel.cc/?gxtHWn508zmo
 
 setcpm(110)
 
